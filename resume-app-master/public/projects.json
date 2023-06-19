@@ -1,0 +1,41 @@
+{
+    "projectData" : [
+        {
+          "image": "https://picsum.photos/300/300",
+          "title": "Ecommerce Website",
+          "sentences": [
+            "This project involved designing and developing a fully functional ecommerce website.",
+            "Implemented user authentication and authorization using modern security practices.",
+            "Integrated payment gateways for seamless online transactions.",
+            "Optimized the website for better performance and improved user experience.",
+            "Utilized responsive design techniques to ensure compatibility across various devices."
+          ],
+          "link": "https://www.example.com/"
+        },
+        {
+          "image": "https://picsum.photos/300/300",
+          "title": "Social Media Application",
+          "sentences": [
+            "Developed a social media application with features like user profiles, posts, and comments.",
+            "Implemented real-time notifications using websockets for instant updates.",
+            "Utilized cloud storage services for storing and retrieving user-generated content.",
+            "Designed and implemented a scalable database schema for efficient data management.",
+            "Performed extensive testing and debugging to ensure a robust and stable application."
+          ],
+          "link": "https://www.example.com/"
+        },
+        {
+          "image": "https://picsum.photos/300/300",
+          "title": "Mobile Weather App",
+          "sentences": [
+            "Created a mobile weather application to provide accurate weather forecasts.",
+            "Integrated with external APIs to fetch real-time weather data.",
+            "Implemented geolocation functionality to provide localized weather information.",
+            "Designed an intuitive user interface with smooth animations and visual effects.",
+            "Optimized the app for minimal data usage and fast loading times."
+          ],
+          "link": "https://www.example.com/"
+        }
+      ]
+      
+}

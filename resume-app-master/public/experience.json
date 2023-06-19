@@ -1,0 +1,43 @@
+{
+	"experienceData": [
+		{
+			"id": "1",
+			"companyName": "ABC Corporation",
+			"designation": "Software Engineer",
+			"statements": [
+				"1. I have worked as a Software Engineer at ABC Corporation, contributing to the development of web applications.",
+				"2. I have extensive experience in front-end technologies like React, HTML, CSS, and JavaScript.",
+				"3. I have successfully implemented various features and enhancements to improve user experience.",
+				"4. I have collaborated with cross-functional teams to deliver high-quality projects within strict deadlines.",
+				"5. I am passionate about writing clean and maintainable code, following best practices and industry standards."
+			],
+			"iconImages": ["react", "js", "html", "firebase"]
+		},
+		{
+			"id": "2",
+			"companyName": "XYZ Solutions",
+			"designation": "Full Stack Developer",
+			"statements": [
+				"1. As a Full Stack Developer at XYZ Solutions, I have developed end-to-end web applications using technologies like React, Node.js, and MongoDB.",
+				"2. I have experience in building RESTful APIs and integrating third-party services for seamless functionality.",
+				"3. I have worked on optimizing application performance and implementing security measures.",
+				"4. I have actively participated in code reviews and provided constructive feedback to team members.",
+				"5. I am a strong advocate for continuous learning and staying updated with the latest web development trends."
+			],
+			"iconImages": ["react", "js", "html", "firebase"]
+		},
+		{
+			"id": "3",
+			"companyName": "PQR Innovations",
+			"designation": "Front-end Developer",
+			"statements": [
+				"1. In my role as a Front-end Developer at PQR Innovations, I have specialized in building intuitive user interfaces using React, HTML, CSS, and JavaScript.",
+				"2. I have a keen eye for design details and have implemented responsive layouts for seamless user experiences across different devices.",
+				"3. I have collaborated closely with UX/UI designers to transform wireframes and mockups into interactive web applications.",
+				"4. I have optimized web applications for performance and accessibility, ensuring compliance with web standards.",
+				"5. I am passionate about creating visually appealing and user-friendly interfaces that leave a lasting impression."
+			],
+			"iconImages": ["react", "js", "html", "firebase"]
+		}
+	]
+}
